@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, sou o João! 👋🏽
 
-<!--
-**S4NDMAN11/S4NDMAN11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+→ 💼 Atualmente sou Trainee na empresa [CRP Tecnologia](https://www.linkedin.com/company/crp-tecnologia/mycompany/)!
 
-Here are some ideas to get you started:
+→ 🏀 Sou um grande fã de Basquete
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ ☕ Atualmente estou aprendendo sobre Java
+
+### Possuo vivência em:
+
+- HTML
+
+- CSS
+
+- TypeScript
+
+- Database em geral (PostGreSQL, MSSQL, MySQL)
+
+- Python (Analise de Dados)
+
+- Framework React Native & Expo
