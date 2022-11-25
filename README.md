@@ -1,8 +1,8 @@
 ## Olá, sou o João! 👋🏽
 
-→ 💼 Atualmente sou Trainee na empresa [CRP Tecnologia](https://www.linkedin.com/company/crp-tecnologia/mycompany/)!
-→ 🏀 Sou um grande fã de Basquete
-→ ☕ Atualmente estou aprendendo sobre Java
+→ 💼 Atualmente sou Trainee na empresa [CRP Tecnologia](https://www.linkedin.com/company/crp-tecnologia/mycompany/)! <br>
+→ 🏀 Sou um grande fã de Basquete <br>
+→ ☕ Atualmente estou aprendendo sobre Java <br>
 
 ### Possuo vivência em:
 
@@ -12,4 +12,5 @@
 - Database em geral (PostGreSQL, MSSQL, MySQL)
 - Python (Analise de Dados)
 - Framework React Native & Expo
+- API Rest / Spring Boot
 ##
