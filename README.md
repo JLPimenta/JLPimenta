@@ -2,7 +2,7 @@
 
 → 💼 Atualmente sou Trainee na empresa [CRP Tecnologia](https://www.linkedin.com/company/crp-tecnologia/mycompany/)! <br>
 → 🏀 Sou um grande fã de Basquete <br>
-→ ☕ Atualmente estou aprendendo sobre Java <br>
+→ ☕ Java + Spring Boot <br>
 
 ### Possuo vivência em:
 
