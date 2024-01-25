@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software na Unicatólica-TO.
 > `Java` `JavaScript`
 
 ##### ✍ Frameworks & Tecnologias:
-> `Angular` `NestJs` `Prisma` `Spring Boot` `JUnit` `Docker` `PostgreSQL` `MySQL` <br>
+> `Spring Boot` `Angular` `NestJs` `Prisma` `JUnit` `Docker` `PostgreSQL` `MySQL` <br>
 
 ---
 
