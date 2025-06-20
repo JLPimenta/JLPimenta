@@ -1,5 +1,6 @@
 # Olá, eu sou o João 👋
-Sou formado em Engenharia de Software pela Unicatólica-TO. <br>
+- Bacharel em _Engenharia de Software_ pela Unicatólica-TO.
+- Atualmente cursando _Especialização em Testes e Qualidade de Software_ na Uninassau.
 #### ✔ Linguagens:
 > `Java` `JavaScript`
 
